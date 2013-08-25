@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[MuoTK's Blog]]></title>
+  <link href="http://MuoTK.github.io/atom.xml" rel="self"/>
+  <link href="http://MuoTK.github.io/"/>
+  <updated>2013-08-25T09:54:00+09:00</updated>
+  <id>http://MuoTK.github.io/</id>
+  <author>
+    <name><![CDATA[MuoTK]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
